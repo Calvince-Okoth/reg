@@ -1,0 +1,58 @@
+body {
+    background-color: coral;
+    font-size: 10pt;
+}
+
+.div0 {
+    background-color: wheat;
+    height: 340px;
+    width: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 20px;
+    padding-top: 2px;
+    border-radius: 10px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.dis {
+    position: relative;
+    left: 40px;
+    top: 30px;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    background-color: #3d0a26;
+    height: 40px;
+    width: 300px;
+    position: relative;
+    border-radius: 3px;
+}
+
+.input {
+    padding: 10px;
+    color: black;
+    width: 250px;
+    height: 15px;
+    border-radius: 2px;
+    padding-left: 4px;
+    border-style: initial;
+    border-color: red;
+    padding-left: 10px;
+    font-weight: 500px;
+}
+
+.div3>button {
+    height: 50px;
+    width: 270px;
+    background-color: aqua;
+    color: black;
+    position: relative;
+    border-radius: 3px;
+    font-weight: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    border-style: dashed;
+}
